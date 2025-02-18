@@ -11,3 +11,8 @@ This lab shows how to recover a lost bitcoin wallet password using **BTCRecover 
 - Ubuntu VM: Lab environment
 
 
+## Step-1 ... Installing the required tools
+
+---> Installing Electrum (Bitcoin Wallet)
+      - sudo apt update 
+      sudo apt install electrum -y 
