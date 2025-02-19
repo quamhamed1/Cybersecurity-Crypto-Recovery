@@ -9,4 +9,10 @@ Installing --- Electrum (Bitcoin Wallet); Specficially the latest Electrum relea
 
 <img width="676" alt="image" src="https://github.com/user-attachments/assets/ca95386a-f1c8-46ec-b6dc-fdf89aab95cc" />
 
-Installing --- Electrum (Bitcoin Wallet); Verifying download 
+Installing --- Electrum (Bitcoin Wallet); 
+
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/2cc89105-aff1-4308-b43e-6325cb4c6c5a" />
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/f7c427f7-fb0d-40ca-b937-e5baeba7952b" />
+
+Running ---> Electrum 
+
