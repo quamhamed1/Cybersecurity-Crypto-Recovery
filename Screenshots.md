@@ -18,3 +18,16 @@ Running ---> Electrum
 
 <img width="679" alt="image" src="https://github.com/user-attachments/assets/1b80c8ed-abc0-41ed-ba88-1ce4ece10e40" />
 
+Installing ---> BTCRecover (Tool for recovering lost passwords for Bitcoin Wallets)
+
+<img width="682" alt="image" src="https://github.com/user-attachments/assets/4c8dfe48-4954-42b4-b15d-d459c8ea2ce7" />
+
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/a7ddb86a-a663-4e7e-8e2e-b4f4e3a7971e" />
+
+
+Installing ---> Hashcat (brute-forcing tool)
+
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/c866b96c-1168-439f-989f-6a90a54e437e" />
+
+
+
