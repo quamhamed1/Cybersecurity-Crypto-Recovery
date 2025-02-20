@@ -16,3 +16,5 @@ Installing --- Electrum (Bitcoin Wallet);
 
 Running ---> Electrum 
 
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/1b80c8ed-abc0-41ed-ba88-1ce4ece10e40" />
+
